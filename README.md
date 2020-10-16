@@ -26,4 +26,4 @@ W1 and W2 are weights of neural network
   
 
 
-#It uses keras library to train the model.So it is more accurate on test data.
+# It uses keras library to train the model.So it is more accurate on test data.
